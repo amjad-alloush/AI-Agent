@@ -1,18 +1,20 @@
 ﻿🧠 AI Agent Framework
-Welcome to the AI Agent Framework, a comprehensive, modular, and extensible system for building your own intelligent agents. This project leverages modern AI technologies including Large Language Models (LLMs), tool augmentation, memory systems, and reasoning engines
+
+	Welcome to the AI Agent Framework, a comprehensive, modular, and extensible system for building your own intelligent agents. This project leverages modern AI technologies including Large Language Models (LLMs), tool augmentation, memory systems, and reasoning engines
 
 🚀 Features
-🌐 Natural Language Understanding (NLU)
 
-🧠 Short-term & Long-term Memory (with vector search)
+	🌐 Natural Language Understanding (NLU)
 
-💡 LLM-powered Reasoning Engine (OpenAI-compatible)
+	🧠 Short-term & Long-term Memory (with vector search)
 
-🛠️ Tool Use Framework (Web Search, Weather, and more)
+	💡 LLM-powered Reasoning Engine (OpenAI-compatible)
 
-🔁 Continuous learning loop (perception → reasoning → action → feedback)
+	🛠️ Tool Use Framework (Web Search, Weather, and more)
 
-🧪 Full testing suite with unit, integration, and behavioral tests
+	🔁 Continuous learning loop (perception → reasoning → action → feedback)
 
-🌐 Web & CLI interfaces
+	🧪 Full testing suite with unit, integration, and behavioral tests
+
+	🌐 Web & CLI interfaces
 
