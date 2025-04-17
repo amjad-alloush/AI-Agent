@@ -1,10 +1,4 @@
-﻿![GitHub stars](https://img.shields.io/github/stars/amjad-alloush/AI-Agent?style=social)
-![GitHub forks](https://img.shields.io/github/forks/amjad-alloush/AI-Agent?style=social)
-![GitHub issues](https://img.shields.io/github/issues/amjad-alloush/AI-Agent)
-![Last Commit](https://img.shields.io/github/last-commit/amjad-alloush/AI-Agent)
-![License](https://img.shields.io/github/license/amjad-alloush/AI-Agent)
-
-🧠 AI Agent Framework
+﻿🧠 AI Agent Framework
 
   Welcome to the AI Agent Framework, a comprehensive, modular, and extensible system for building your own intelligent agents.
   This project leverages modern AI technologies including Large Language Models (LLMs), tool augmentation, memory systems, and reasoning engines
