@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\src",
+    "\\src\\reasoning",
+    "\\src\\reasoning\\rtc",
     "\\templates"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\src\\reasoning\\rtc\\__init__.py",
   "PreviewInSolutionExplorer": false
 }
